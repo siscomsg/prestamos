@@ -1,0 +1,44 @@
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Sniper\Configuración local\Datos de programa\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.pdb
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.exe
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.xml
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.pdb
+C:\Documents and Settings\Sniper\mis documentos\visual studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Sniper\mis documentos\visual studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.det_prestamo.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Grafica.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.exe.config
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.FrmCuadro.resources
+C:\Documents and Settings\Sniper\Mis documentos\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.FrmDatos.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.exe.config
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.exe
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.pdb
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\bin\Debug\Prestamos.xml
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.vbprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.det_prestamo.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.FrmDatos.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Grafica.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\WindowsApplication1.FrmCuadro.resources
+C:\Users\Shadow\Documents\Visual Studio 2010\Projects\Prestamos\Prestamos\obj\x86\Debug\Prestamos.vbproj.GenerateResource.Cache
